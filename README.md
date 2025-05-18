@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <div>
   <img height=200 src=https://github-readme-stats.vercel.app/api?username=IorranValenca&show_icons=true&theme=graywhite&include_all_commits=true>
   <img height=200 src=https://github-readme-stats.vercel.app/api/top-langs/?username=IorranValenca&theme=graywhite&include_all_commits=true>
-  <img height=200 src=https://github-readme-stats.vercel.app/api/wakatime?username=IorranValenca&theme=graywhite&include_all_commits=true>
 
 </div>
 
