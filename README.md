@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  [![IorranValenca GitHub stats](https://github-readme-stats.vercel.app/api?username=IorranValenca)](https://github.com/IorranValenca/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IorranValenca&theme=dark&show_icons=true)
+  <img height=200 src=https://github-readme-stats.vercel.app/api?username=IorranValencav&show_icons=true&theme=radical&include_all_commits=true>
+  <img height=200 src=https://github-readme-stats.vercel.app/api/top-langs/?username=IorranValenca&theme=radical&include_all_commits=true>
 </div>
 
 <div>
